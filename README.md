@@ -7,14 +7,3 @@
 
 
 I am Al Muntasir Abir. I am an aspiring software engineer. an avid learner and passionate coder. Love to think about things and build cool stuffs. 
-
-
-### ~/skills
-
-
-{
-  "frontend"   : ["React", "Html", "CSS", ...more],
-  "mobile-app" : ["React Native"]
-  "backend"    : [ "Django"],
-  "dbms"       : ["Postgres"]
-}
