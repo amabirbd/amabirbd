@@ -1,16 +1,20 @@
-### Hi there 👋
+## Al Muntasir Abir
 
-<!--
-**amabirbd/amabirbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> An avid learner
+> Sapiosexual
 
-Here are some ideas to get you started:
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/almuntasir-abir-178889135/)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/king_rayhan)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/almuntasir1/) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/6797330/almuntasir-abir)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am Al Muntasir Abir. I am an aspiring software engineer. an avid learner and passionate coder. Love to think about things and build cool stuffs. 
+
+
+### ~/skills
+
+
+{
+  "frontend"   : ["React", "Html", "CSS", ...more],
+  "mobile-app" : ["React Native"]
+  "backend"    : [ "Django"],
+  "dbms"       : ["Postgres"]
+}
