@@ -8,3 +8,16 @@
 
 
 I am Al Muntasir Abir. I am an aspiring software engineer. an avid learner and passionate coder. Love to think about things and build cool stuffs. 
+
+Programming Languages-
+* Python
+* Javascript
+
+Love to work with -
+* React
+* Django
+
+familiar with - 
+* Html/CSS
+* bootstrap
+* postgresql
