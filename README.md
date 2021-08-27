@@ -16,8 +16,10 @@ Programming Languages-
 Love to work with -
 * React
 * Django
+* NextJs
 
 familiar with - 
 * Html/CSS
-* bootstrap
-* postgresql
+* Material ui
+* Bootstrap
+* Postgresql
