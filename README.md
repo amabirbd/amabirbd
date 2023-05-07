@@ -16,10 +16,13 @@ Programming Languages-
 Love to work with -
 * React
 * NextJs
+* Express, NodeJs
+* 
+databases - 
+* Mongodb, Postgresql
 
 familiar with - 
-* Express, NodeJs
 * Html/CSS
+* django
 * Material UI, Tailwind
 * Typescript
-* Mongodb, Postgresql
