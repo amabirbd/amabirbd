@@ -7,22 +7,22 @@
 # My [portfolio](https://nostalgic-gates-f3757f.netlify.app/)
 
 
-I am Al Muntasir Abir. I am an aspiring software engineer. an avid learner and passionate coder. Love to think about things and build cool stuffs. 
+I am Al Muntasir Abir. I am a software engineer. an avid learner and passionate coder. Love to think about things and build cool stuff. 
 
 Programming Languages-
 * Javascript
 * Python
 
 Love to work with -
+* Express, NodeJs
 * React
 * NextJs
-* Express, NodeJs
-* 
+
 databases - 
-* Mongodb, Postgresql
+* MongoDB, Postgresql
 
 familiar with - 
 * Html/CSS
-* django
-* Material UI, Tailwind
+* Django
+* Tailwind
 * Typescript
